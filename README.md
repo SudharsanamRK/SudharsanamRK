@@ -130,32 +130,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SudharsanamRK&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" width="60%" alt="GitHub Streak"/>
 </div>
 
----
-
-## Let's Connect
-
-<div align="center">
-
-I'm always interested in collaborating on meaningful projects and connecting with fellow developers. Whether you have an exciting project in mind or just want to chat about technology, feel free to reach out.
-
-<br/>
-
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/your-twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:your.email@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
