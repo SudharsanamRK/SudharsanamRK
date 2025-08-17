@@ -68,7 +68,7 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
       <td width="50%" valign="top">
         <h3 align="center">🧠 Mind Reader Project</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/300x180/4F46E5/ffffff?text=Mind+Reader" width="100%" alt="Mind Reader Project"/>
+          <img width="1920" height="1080" alt="project-thumbnails" src="https://github.com/user-attachments/assets/71ec36da-6293-4075-ae07-2d63ab851a4f" />
         </div>
         <br>
         <p align="center">
@@ -89,7 +89,7 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
       <td width="50%" valign="top">
         <h3 align="center">🚀 Coming Soon</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/300x180/6366F1/ffffff?text=Next+Project" width="100%" alt="Next Project"/>
+          <img width="1920" height="1080" alt="project-thumbnails (1)" src="https://github.com/user-attachments/assets/7cbab2b6-07aa-45ce-a303-721fe513e22d" />
         </div>
         <br>
         <p align="center">
