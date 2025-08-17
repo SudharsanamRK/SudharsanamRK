@@ -20,10 +20,6 @@
 
 I'm a passionate developer who transforms ideas into elegant digital solutions. With expertise across the full stack, I focus on creating applications that are not only functional but also provide exceptional user experiences. My approach combines technical precision with creative thinking to deliver solutions that truly make a difference.
 
-**Currently:** Building innovative web applications and exploring emerging technologies  
-**Focus:** Clean, scalable code and thoughtful user interface design  
-**Philosophy:** Technology should enhance human experiences, not complicate them
-
 ---
 
 ## Technical Expertise
