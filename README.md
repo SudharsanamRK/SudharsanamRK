@@ -4,13 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Technology+Enthusiast" alt="Typing Animation" />
 
-<p align="center">
-  <em>Building digital experiences that matter</em>
-</p>
+<em>Building digital experiences that matter</em>
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=header" width="100%"/>
@@ -19,8 +15,6 @@
 ## About Me
 
 I'm a passionate developer who transforms ideas into elegant digital solutions. With expertise across the full stack, I focus on creating applications that are not only functional but also provide exceptional user experiences. My approach combines technical precision with creative thinking to deliver solutions that truly make a difference.
-
----
 
 ## Technical Expertise
 
@@ -54,8 +48,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
 
 </div>
 
----
-
 ## Featured Projects
 
 <div align="center">
@@ -66,7 +58,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
         <div align="center">
           <img width="1920" height="1080" alt="project-thumbnails" src="https://github.com/user-attachments/assets/71ec36da-6293-4075-ae07-2d63ab851a4f" />
         </div>
-        <br>
         <p align="center">
           An interactive web application that creates an engaging mind-reading experience using clever frontend logic and intuitive design.
         </p>
@@ -75,7 +66,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </div>
-        <br>
         <div align="center">
           <a href="https://github.com/SudharsanamRK/mind-reader-project">
             <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -87,7 +77,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
         <div align="center">
           <img width="1920" height="1080" alt="project-thumbnails (1)" src="https://github.com/user-attachments/assets/7cbab2b6-07aa-45ce-a303-721fe513e22d" />
         </div>
-        <br>
         <p align="center">
           Currently working on an exciting new project that pushes the boundaries of web development. Stay tuned for something amazing!
         </p>
@@ -96,7 +85,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         </div>
-        <br>
         <div align="center">
           <img src="https://img.shields.io/badge/Coming%20Soon-6366F1?style=for-the-badge&logo=rocket&logoColor=white" />
         </div>
@@ -104,8 +92,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     </tr>
   </table>
 </div>
-
----
 
 ## GitHub Analytics
 
@@ -121,15 +107,15 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     </tr>
   </table>
 </div>
-<div align="center">
 
-<h2 align="center">Contact Me</h2>
-<p align="center"> Interested in collaborating or have any questions? Feel free to contact me: </p>
+## Contact Me
+
+<p align="center">Interested in collaborating or have any questions? Feel free to contact me:</p>
 <p align="center">
   Email: <a href="mailto:rksudharsanam2005@gmail.com">rksudharsanam2005@gmail.com</a><br>
   LinkedIn: <a href="https://www.linkedin.com/in/sudharsanamrk/">Sudharsanam R K</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
 </div>
