@@ -121,18 +121,15 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     </tr>
   </table>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SudharsanamRK&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" width="60%" alt="GitHub Streak"/>
-</div>
 
-
-<div align="center">
+<h2 align="center">Contact Me</h2>
+<p align="center"> Interested in collaborating or have any questions? Feel free to contact me: </p>
+<p align="center">
+  Email: <a href="mailto:rksudharsanam2005@gmail.com">rksudharsanam2005@gmail.com</a><br>
+  LinkedIn: <a href="https://www.linkedin.com/in/sudharsanamrk/">Sudharsanam R K</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
-
-<sub>Built with ❤️ and lots of ☕</sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SudharsanamRK&style=flat-square&color=2563eb&label=Profile+Views)
 
 </div>
