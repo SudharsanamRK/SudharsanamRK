@@ -77,7 +77,7 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     <td width="50%" valign="top">
       <h3 align="center">SafeFish AI Chatbot Assistant</h3>
       <div align="center">
-        <img width="100%" alt="SafeFish Thumbnail" src="https://github.com/user-attachments/assets/ca11cd48-e1a7-455c-8820-5e70ed7786a1" />
+          <img width="1920" height="1080" alt="project-thumbnails (4)" src="https://github.com/user-attachments/assets/7a43f4c2-072c-4391-a48a-ead17e37218e" />
       </div>
       <p align="center">
         SafeFish is an AI-powered fishing safety companion that provides 
@@ -101,6 +101,61 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
         <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=rocket&logoColor=white" />
       </div>
     </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+        <h3 align="center">COVID-19 Mortality Prediction System</h3>
+        <div align="center">
+            <img width="1920" height="1080" alt="project-thumbnails (2)" src="https://github.com/user-attachments/assets/88acd337-5875-43e5-b87a-613a1458d886" />
+        </div>
+        <p align="center">
+          An interactive web application that predicts country-level COVID-19 deaths 
+          using epidemiological and healthcare data, with a user-friendly Streamlit dashboard.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+          <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+          <img src="https://img.shields.io/badge/Joblib-0052CC?style=flat-square&logo=python&logoColor=white" />
+        </div>
+        <div align="center" style="margin-top: 10px;">
+          <a href="https://github.com/SudharsanamRK/covid19-death-prediction">
+            <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://covid19-death-prediction.streamlit.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-28A745?style=for-the-badge&logo=streamlit&logoColor=white" />
+          </a>
+        </div>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">AquaPredict AI Chatbot Assistant</h3>
+        <div align="center">
+          <img width="1920" height="1080" alt="aquapredict-thumbnail" src="https://github.com/user-attachments/assets/056b730b-e328-40a5-b124-27d7df5ccf11" />
+        </div>
+          <p align="center">
+            AquaPredict is an AI-powered fishing and market analysis companion that provides 
+            real-time fish catch predictions, market price forecasting, and environmental analysis. 
+            Designed for fishermen and coastal communities, it ensures profitable and informed fishing decisions.
+          </p>
+          <ul>
+            <li>AI-powered fish catch prediction using environmental data</li>
+            <li>Real-time market price forecasting and analysis</li>
+            <li>Sea surface temperature, salinity & chlorophyll monitoring</li>
+            <li>Weather and tidal condition analysis</li>
+            <li>Interactive chatbot assistant for fishing queries</li>
+          </ul>
+          <div align="center">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+            <img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logo=xgboost&logoColor=white" />
+            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          </div>
+          <div align="center" style="margin-top: 10px;">
+            <a href="https://github.com/SudharsanamRK/AquaPredict">
+              <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+        </div>
+  </td>
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
