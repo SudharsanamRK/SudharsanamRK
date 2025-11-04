@@ -42,7 +42,7 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     <td width="50%" valign="top">
       <h3 align="center">Mind Reader Project</h3>
       <div align="center">
-        <img width="100%" alt="Mind Reader Thumbnail" src="https://github.com/user-attachments/assets/71ec36da-6293-4075-ae07-2d63ab851a4f" />
+        <img width="1920" height="1080" alt="project-thumbnails (5)" src="https://github.com/user-attachments/assets/e3f78949-f094-4f91-9eca-b4e8b7a81339" />
       </div>
       <p align="center">
         An interactive web application that creates an engaging mind-reading experience 
@@ -62,7 +62,7 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     <td width="50%" valign="top">
       <h3 align="center">SafeFish AI Chatbot Assistant</h3>
       <div align="center">
-          <img width="1920" height="1080" alt="project-thumbnails (4)" src="https://github.com/user-attachments/assets/7a43f4c2-072c-4391-a48a-ead17e37218e" />
+          <img width="1920" height="1080" alt="project-thumbnails (6)" src="https://github.com/user-attachments/assets/de3ce702-5bf7-405a-a193-bc3ee731ef9d" />
       </div>
       <p align="center">
         SafeFish is an AI-powered fishing safety companion that provides 
