@@ -1,7 +1,7 @@
 # Sudharsanam R K
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Technology+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Front+End+Developer;Creative+Problem+Solver;Technology+Enthusiast" alt="Typing Animation" />
   
   Building digital experiences that matter
 </div>
