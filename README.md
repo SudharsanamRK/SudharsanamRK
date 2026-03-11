@@ -141,11 +141,6 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
 
 </div>
 
-### My Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SudharsanamRK/SudharsanamRK/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ## GitHub Analytics
 
 <div align="center">
@@ -161,6 +156,12 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
   </table>
 </div>
 
+## My Contributions
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SudharsanamRK/SudharsanamRK/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## Contact me..
 
 <div align="center">
   <a href="https://linkedin.com/in/sudharsanamrk/">
