@@ -110,7 +110,7 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=740cdc&height=35&section=header&text=🩺%20COVID-19%20Mortality%20Prediction&fontSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=740cdc&height=35&section=header&text=%20COVID-19%20Mortality%20Prediction&fontSize=20&animation=fadeIn" width="100%"/>
   <br />
   <table border="0">
     <tr>
