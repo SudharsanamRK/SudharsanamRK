@@ -21,55 +21,53 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&section=header&text=%20Mind%20Reader%20Project&fontSize=20&animation=fadeIn" width="100%"/>
-  <br />
-  <table border="0">
+  <!-- Mind Reader -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&section=header&text=%20Mind%20Reader%20Project&fontSize=20&animation=fadeIn" width="100%" />
+  <table border="0" style="margin:16px 0;">
     <tr>
       <td width="50%">
         <img width="100%" src="https://github.com/user-attachments/assets/e3f78949-f094-4f91-9eca-b4e8b7a81339" style="border-radius:15px;" />
       </td>
       <td width="50%" valign="top">
         <p align="left">
-          <strong>Mind Reader</strong>: I started messing around with HTML and CSS and built this. It's not actually reading your mind probably, but it was my first step into making things move on a screen.
+          <strong>Mind Reader</strong>: I started messing around with HTML and CSS and built this. It's not actually reading your mind, probably, but it was my first step into making things move on a screen.
         </p>
-      <p align="left">
+        <p align="left">
           • Gaslighting users with math logic<br>
           • Proof that I can, in fact, center a <code>&lt;div&gt;</code>
         </p>
-        <div align="left">
+        <div align="left" style="margin:8px 0;">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
         </div>
-        <br />
         <div align="left">
-           <a href="https://github.com/SudharsanamRK/mind-reader-project"><img src="https://img.shields.io/badge/View_Repo-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
+          <a href="https://github.com/SudharsanamRK/mind-reader-project">
+            <img src="https://img.shields.io/badge/View_Repo-2563EB?style=flat-square&logo=github&logoColor=white" />
+          </a>
         </div>
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007396&height=35&section=header&text=%20SafeFish%20AI%20Assistant&fontSize=20&animation=fadeIn" width="100%"/>
-  <br />
-  <table border="0">
+  <!-- SafeFish AI Assistant -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007396&height=35&section=header&text=%20SafeFish%20AI%20Assistant&fontSize=20&animation=fadeIn" width="100%" />
+  <table border="0" style="margin:16px 0;">
     <tr>
       <td width="50%" valign="top">
         <p align="left">
-          <strong>SafeFish</strong> is an AI-powered fishing safety companion providing real-time weather assessments and safety alerts for coastal communities.
+          <strong>SafeFish</strong> is an AI‑powered fishing safety companion providing real‑time weather assessments and safety alerts for coastal communities.
         </p>
         <p align="left">
-          • Real-time ocean condition analysis<br>
+          • Real‑time ocean condition analysis<br>
           • Safety alerts (wind, wave, UV)<br>
           • AI Fishing Chatbot
         </p>
-        <div align="left">
+        <div align="left" style="margin:8px 0;">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
         </div>
-        <br />
         <div align="left">
-           <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=rocket&logoColor=white" /></a>
+          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=rocket&logoColor=white" /></a>
         </div>
       </td>
       <td width="50%">
@@ -78,14 +76,12 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     </tr>
   </table>
 
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&section=header&text=%20AquaPredict%20AI&fontSize=20&animation=fadeIn" width="100%"/>
-  <br />
-  <table border="0">
+  <!-- AquaPredict AI -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&section=header&text=%20AquaPredict%20AI%20Forecasting%20System&fontSize=20&animation=fadeIn" width="100%" />
+  <table border="0" style="margin:16px 0;">
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github.com/user-attachments/assets/056b730b-e328-40a5-b124-27d7df5ccf11" style="border-radius:15px;" />
+        <img width="100%" src="https://github.com/user-attachments/assets/ef4e71ee-9be9-4e19-8490-d51c73c6fdbc" style="border-radius:15px;" />
       </td>
       <td width="50%" valign="top">
         <p align="left">
@@ -96,41 +92,43 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
           • SST & Tidal monitoring<br>
           • XGBoost & TensorFlow
         </p>
-        <div align="left">
+        <div align="left" style="margin:8px 0;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25"/>
         </div>
-        <br />
         <div align="left">
-           <a href="https://github.com/SudharsanamRK/AquaPredict"><img src="https://img.shields.io/badge/View_Repo-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
+          <a href="https://github.com/SudharsanamRK/AquaPredict">
+            <img src="https://img.shields.io/badge/View_Repo-2563EB?style=flat-square&logo=github&logoColor=white" />
+          </a>
         </div>
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=740cdc&height=35&section=header&text=%20COVID-19%20Mortality%20Prediction&fontSize=20&animation=fadeIn" width="100%"/>
-  <br />
-  <table border="0">
+  <!-- COVID-19 Mortality Prediction -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&section=header&text=%20COVID-19%20Mortality%20Prediction%20Dashboard&fontSize=20&animation=fadeIn" width="100%" />
+  <table border="0" style="margin:16px 0;">
     <tr>
       <td width="50%" valign="top">
         <p align="left">
-          An interactive epidemiological dashboard predicting mortality rates using healthcare metrics and Scikit-learn.
+          An interactive epidemiological dashboard predicting mortality rates using healthcare metrics and Scikit‑learn.
         </p>
         <p align="left">
           • Healthcare Data Analysis<br>
           • Mortality Prediction Logic<br>
           • Streamlit Cloud Deployment
         </p>
-        <div align="left">
+        <div align="left" style="margin:8px 0;">
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25"/>
           <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>
         </div>
-        <br />
         <div align="left">
-          <a href="https://github.com/SudharsanamRK/covid19-death-prediction"><img src="https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
-          <a href="https://covid19-death-prediction.streamlit.app/"><img src="https://img.shields.io/badge/Live-28A745?style=flat-square&logo=streamlit&logoColor=white" /></a>
+          <a href="https://github.com/SudharsanamRK/covid19-death-prediction">
+            <img src="https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <a href="https://covid19-death-prediction.streamlit.app/">
+            <img src="https://img.shields.io/badge/Live-28A745?style=flat-square&logo=streamlit&logoColor=white" />
+          </a>
         </div>
       </td>
       <td width="50%">
@@ -139,7 +137,39 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
     </tr>
   </table>
 
+  <!-- VANTAGE DSS -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=43727a&height=35&section=header&text=%20VANTAGE%20DSS%20(AI%20Aquaculture%20System)&fontSize=20&animation=fadeIn" width="100%" />
+  <table border="0" style="margin:16px 0;">
+    <tr>
+      <td width="50%">
+        <img width="100%" src="https://github.com/user-attachments/assets/8e4ef020-7805-4ca6-8cbb-e394cf586b10" style="border-radius:15px;" />
+      </td>
+      <td width="50%" valign="top">
+        <p align="left">
+          <strong>VANTAGE DSS</strong> is an AI-powered aquaculture decision support system that monitors pond health, predicts risks, and optimizes feeding using real-time water quality data.
+        </p>
+        <p align="left">
+          • Real-time pond monitoring (DO, pH, Temp, Ammonia)<br>
+          • AI-based alerts & feeding recommendations<br>
+          • Survival estimation & profit forecasting
+        </p>
+        <div align="left" style="margin:8px 0;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+          <img src="https://img.shields.io/badge/AI%20Engine-8A2BE2?style=for-the-badge" height="25"/>
+        </div>
+        <div align="left">
+          <a href="https://github.com/SudharsanamRK/vantage-dss">
+            <img src="https://img.shields.io/badge/View_Repo-2563EB?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+
 </div>
+
 
 ## GitHub Analytics
 
